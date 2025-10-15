@@ -11,10 +11,10 @@ You can use this with any (directshow compatible) program to capture or stream, 
 
 Development of this repo partially funded by:
 
-== Recall.ai - API for desktop recording ==
+= Recall.ai - API for desktop recording =
 
 If you’re looking for a hosted desktop recording API, consider checking out
-https://www.recall.ai/product/desktop-recording-sdk[Recall.ai], an API that records Zoom, Google Meet, Microsoft Teams, in-person meetings, and more.
+ https://www.recall.ai/product/desktop-recording-sdk?utm_source=github&utm_medium=sponsorship&utm_campaign=rdp-screen-capture-recorder-to-video-windows-free[Recall.ai], an API that records Zoom, Google Meet, Microsoft Teams, in-person meetings, and more.
 
 == Installation ==
 
@@ -203,4 +203,5 @@ http://obsproject.com is open source, doesn't use FFmpeg but might work for you.
 http://www.ffsplit.com is not open source, but does capture/stream desktop using FFmpeg.
 http://camstudio.org is open source and free, but requires you to just use your local codecs installed in your windows
   system, and has some usability issues, which is why I even started this project in the first place :)
+
 
